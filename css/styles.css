@@ -1,0 +1,15 @@
+header{ 
+    width: 100vw;
+    height: auto;
+    border-bottom: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2em;
+
+}
+
+.input_form{
+    margin:1em;
+}
